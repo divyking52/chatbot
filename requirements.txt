@@ -1,0 +1,15 @@
+flask
+torch
+nltk
+render_template
+request
+jsonify
+random
+json
+NeuralNet
+bag_of_words
+tokenize
+numpy
+stem
+PorterStemmer
+

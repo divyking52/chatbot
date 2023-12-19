@@ -1,7 +1,7 @@
 flask
 torch
 nltk
-render_template
+
 request
 jsonify
 random

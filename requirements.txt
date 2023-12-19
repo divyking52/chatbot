@@ -1,8 +1,6 @@
 flask
 torch
 nltk
-
-request
 jsonify
 random
 json

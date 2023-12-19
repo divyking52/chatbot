@@ -2,10 +2,7 @@ flask
 torch
 nltk
 jsonify
-
-
 NeuralNet
-
 tokenize
 numpy
 stem

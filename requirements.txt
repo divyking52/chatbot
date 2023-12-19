@@ -5,7 +5,7 @@ jsonify
 
 
 NeuralNet
-bag_of_words
+
 tokenize
 numpy
 stem
